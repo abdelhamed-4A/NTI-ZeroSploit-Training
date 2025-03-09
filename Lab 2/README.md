@@ -33,8 +33,8 @@ A containerized web application demonstrating Docker and Docker Compose integrat
 
 1. Clone the repository or create these files manually:
    ```bash
-   git clone [your-repository-url]
-   cd your-project-directory
+   git clone https://github.com/abdelhamed-4A/NTI-ZeroSploit-Training.git
+   cd Lab2
    ```
 
 2. Build and start the containers:
