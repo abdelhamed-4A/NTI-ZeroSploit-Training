@@ -28,7 +28,6 @@ This project demonstrates containerization of a Python/Flask web application wit
 
 ## Setup Steps
 
-<<<<<<< HEAD
 ### 1. Dockerfile Configuration
 =======
 1. Clone the repository or create these files manually:
@@ -36,7 +35,6 @@ This project demonstrates containerization of a Python/Flask web application wit
    git clone https://github.com/abdelhamed-4A/NTI-ZeroSploit-Training.git
    cd Lab2
    ```
->>>>>>> bb93f14185c38ff2a63b99add3dccb5049bbb4a7
 
 **Key Features:**
 - Uses official Python 3.9 slim image
