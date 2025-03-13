@@ -111,6 +111,7 @@ http://localhost:8080
 ```bash
 curl -H "Host: sub-domain.abdelhamedabdelnasser.com" http://198.96.95.206
 ```
+
 ![curl](./images/curl.jpg)
 
 #### Method 2: Use a Browser Extension
@@ -118,6 +119,7 @@ curl -H "Host: sub-domain.abdelhamedabdelnasser.com" http://198.96.95.206
   - **Header Name:** Host
   - **Header Value:** sub-domain.abdelhamedabdelnasser.com
 - Navigate to: `http://198.96.95.206`
+
 ![Hello_World](./images/Hello_World.jpg)
 
 #### Method 3: Use a Temporary DNS Service
@@ -125,6 +127,7 @@ Use a service like `sslip.io` or `nip.io` to resolve the domain:
 ```bash
 http://http://sub-domain.abdelhamedabdelnasser.com.198.96.95.206.sslip.io/
 ```
+
 ![sslip](./images/sslip-io.jpg)
 ---
 
@@ -147,5 +150,5 @@ kubectl delete -f ingress.yaml
 ---
 
 ## Notes
-- Replace `68.168.208.125` with the actual IP address of your ingress.
+- Replace `198.96.95.206` with the actual IP address of your ingress.
 - Ensure your **DNS** or `/etc/hosts` is configured correctly if using a custom domain.
