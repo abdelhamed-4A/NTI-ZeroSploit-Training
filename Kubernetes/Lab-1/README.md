@@ -99,11 +99,11 @@ kubectl apply -f ingress.yaml
 ### 1. Using kubectl port-forward
 You can forward a local port to the service for testing:
 ```bash
-kubectl port-forward svc/hello-world-service 8080:80
+kubectl port-forward svc/hello-world-service 8000:80
 ```
 Then, open your browser or use `curl` to access:
 ```bash
-http://localhost:8080
+http://localhost:8000
 ```
 
 ### 2. Testing the Ingress
