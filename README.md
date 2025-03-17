@@ -4,6 +4,7 @@
 
 ## 📌 Overview
 Welcome to the **NTI ZeroSploit Training Repository** 🎯
+
 This repository documents my journey through the **ZeroSploit training program**, highlighting completed tasks, projects, and hands-on experience with cutting-edge **DevOps technologies**.
 
 ## 🔹 Technologies Covered
@@ -30,6 +31,7 @@ This repository documents my journey through the **ZeroSploit training program**
 🎉 A huge thank you to:
 
 ✅ **NTI** for this exceptional training opportunity.
+    
 ✅ **ZeroSploit Program** for providing practical, hands-on experience.
 
 🚀 **Onward to mastering DevOps** 🔥
