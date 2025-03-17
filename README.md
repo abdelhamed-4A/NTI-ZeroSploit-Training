@@ -28,6 +28,7 @@ This repository documents my journey through the **ZeroSploit training program**
 
 ## 🙌 Acknowledgments
 🎉 A huge thank you to:
+
 ✅ **NTI** for this exceptional training opportunity.
 ✅ **ZeroSploit Program** for providing practical, hands-on experience.
 
