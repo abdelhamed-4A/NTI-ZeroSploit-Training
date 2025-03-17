@@ -12,9 +12,13 @@ This project demonstrates **containerization** of a **Flask-Python web applicati
 
 ### 📌 Key Features:
 ✅ Flask (Python) web server 🐍
+
 ✅ PostgreSQL database 🗄️
+
 ✅ Docker containerization 🐳
+
 ✅ Persistent database storage using Docker volumes 💾
+
 ✅ Docker Compose for easy orchestration ⚙️
 
 ---
