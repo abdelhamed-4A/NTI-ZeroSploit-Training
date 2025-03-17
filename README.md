@@ -19,8 +19,9 @@ This repository documents my journey through the **ZeroSploit training program**
 │   └── Lab2-Dockerized Flask-PostgreSQL Web Application
 │
 ├── ☸️ Kubernetes
-│   ├── Lab1-K8s-Deployment
-│   └── Lab2-K8s-Services
+│   ├── Lab1-K8s-Hello-World
+│   ├── Lab2-K8s-MongoDB-Express
+│   └── Lab3-K8s-Persistent-Volume
 │
 └── 📜 README.md
 ```
