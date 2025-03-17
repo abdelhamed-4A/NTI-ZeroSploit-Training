@@ -20,7 +20,7 @@ This project deploys **MongoDB** and **Mongo Express** on a Kubernetes cluster u
  ├── mongodb-deployment.yaml        # MongoDB StatefulSet deployment
  ├── mongodb-service.yaml           # Service to expose MongoDB
  ├── mongo-express-deployment.yaml  # Mongo Express deployment
- ├── mongo-express-service.yaml     # Service to expose Mongo Express
+ └── mongo-express-service.yaml     # Service to expose Mongo Express
 ```
 
 ---
@@ -231,9 +231,13 @@ kubectl delete pod -n mongodb -l app=mongo-express
 
 ## 🎯 Key Takeaways
 ✅ Uses **StatefulSet** for MongoDB persistence
+
 ✅ Stores sensitive data in **Kubernetes Secrets**
+
 ✅ Provides **Mongo Express** for easy database management
+
 ✅ Uses **Services** to enable internal and external communication
+
 ✅ Implements **authentication** for secure access
 
 ---

@@ -2,8 +2,11 @@
 
 ## 🎯 Overview
 This project demonstrates how to deploy a simple **Hello World** application using **Kubernetes**. It includes:
+
 ✅ **Deployment** → Runs the `crccheck/hello-world` Docker image 🐳  
+
 ✅ **Service** → Exposes the application internally 🔗  
+
 ✅ **Ingress** → Routes external traffic using a custom domain 🌍
 
 ---
